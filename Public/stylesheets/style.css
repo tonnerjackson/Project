@@ -1,0 +1,17 @@
+body {
+  text-align:center;
+  background-color: #00877d
+}
+
+h1 {
+  font-family:monospace;
+}
+
+h2 {
+  font-family: Courier;
+  font-size: .8em;
+}
+
+h2:hover{
+  background-color: yellow;
+}
